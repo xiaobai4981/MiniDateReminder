@@ -8,7 +8,7 @@
     <fragment
         android:id="@+id/mainFragment"
         android:name="com.frabon.rememberthedate.ui.MainFragment"
-        android:label="Date-a-base"
+        android:label="Mini Date Reminder"
         tools:layout="@layout/fragment_main" >
         <action
             android:id="@+id/action_mainFragment_to_addEditEventFragment"

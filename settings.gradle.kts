@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Date-a-base"
+rootProject.name = "MiniDateReminder"
 include(":app")
